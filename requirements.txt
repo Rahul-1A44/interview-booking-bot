@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+pydantic-settings
+python-multipart
+python-dotenv
+openai
+pinecone-client
+redis
+pypdf
+tiktoken
