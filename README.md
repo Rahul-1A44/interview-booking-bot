@@ -108,8 +108,3 @@ Advanced Parsing: Add OCR support for scanned PDF documents.
 
 👤 Author
 Rahul Kumar Gupta Submitted for Palm Mind Technology
-
-
-### **Step 2: Commit and Push (The "Active Developer" Look)**
-Now, run these commands to push this update. This creates a timestamped "work history" on GitHub.
-
